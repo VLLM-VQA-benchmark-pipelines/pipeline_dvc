@@ -1,0 +1,3 @@
+# это yaml
+model_docker: "model1_docker_image"
+dataset: "dataset1"
